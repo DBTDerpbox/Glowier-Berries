@@ -10,7 +10,7 @@ Glowier Berries is a small datapack that makes the user glow when they eat a glo
 
 ### Notices
 
-Glowier Berries is currently designed for [Minecraft Java Edition 21w05a](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-4)
+Glowier Berries is currently designed for [Minecraft Java Edition 21w05a](https://www.minecraft.net/en-us/article/minecraft-snapshot-21w05a)
 
 ## Authors
 
