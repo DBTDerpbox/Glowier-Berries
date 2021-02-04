@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Glowier Berries",
+        "description": "Adds glowing effect to glow berries\n\nWhen a glow berry is consumed, you will glow",
+        "icon": {
+            "item": "glow_berries"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dbtderpbox",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
