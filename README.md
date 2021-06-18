@@ -2,7 +2,7 @@
 
 Glowier Berries is a small datapack that makes the user glow when they eat a glow berry
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.17_Snapshot-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/glowier-berries?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/glowier-berries?style=for-the-badge)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.17-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/glowier-berries?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/glowier-berries?style=for-the-badge)
 
 ### Usage
 
@@ -12,7 +12,7 @@ Glowier Berries is a small datapack that makes the user glow when they eat a glo
 
 ### Notices
 
-Glowier Berries is currently designed for [Minecraft Java Edition 21w05a](https://www.minecraft.net/en-us/article/minecraft-snapshot-21w05a)
+Glowier Berries is currently designed for [Minecraft Java Edition 1.17](https://www.minecraft.net/en-us/article/caves---cliffs--part-i-out-today-java)
 
 ## Authors
 
