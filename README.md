@@ -6,9 +6,9 @@ Glowier Berries is a small datapack that makes the user glow when they eat a glo
 
 ## Downloads
 
-1.20.5
+[1.20.5](https://github.com/DBTDerpbox/Glowier-Berries/releases/tag/V1.1)
 
-1.17-1.20.4
+[1.17-1.20.4](https://github.com/DBTDerpbox/Glowier-Berries/releases/tag/V1.0.2)
 
 ## Authors
 
