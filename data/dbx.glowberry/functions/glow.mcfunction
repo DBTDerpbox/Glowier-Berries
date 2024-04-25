@@ -2,4 +2,4 @@
 effect give @s glowing 15 0 false
 
 ##Reset score
-scoreboard players reset @s dbx.gb.eat
+advancement revoke @s only dbx.glowberry:detect
