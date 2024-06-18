@@ -3,7 +3,7 @@
       "icon": {
         "id": "minecraft:glow_berries"
       },
-      "title": "Glowier Berries (V1.1)",
+      "title": "Glowier Berries (V1.2)",
       "description": "Adds glowing effect to glow berries\n\nWhen a glow berry is consumed, you will glow",
       "show_toast": false,
       "announce_to_chat": false
